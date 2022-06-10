@@ -1,0 +1,29 @@
+.header {
+  height: 75px;
+  width: 100;
+  background-color: black;
+}
+
+.text {
+  height: 300px;
+  width: 100%;
+  background-color: gray;
+}
+
+.day {
+  height: 110px;
+  width: 100%;
+  background-color: black;
+}
+
+.what {
+  height: 50px;
+  width: 70%;
+  background-color: wheat;
+}
+
+.Links {
+  height: 130px;
+  width: 90%;
+  background-color: coral;
+}
